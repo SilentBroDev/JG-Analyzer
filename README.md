@@ -36,6 +36,7 @@ py analyzer.py error.log
 
 Beispiel:
 
+```text
 JG_ANALYZER/
 │
 ├── analyzer.py
@@ -54,6 +55,7 @@ JG_ANALYZER/
     ├── module_error.log
     ├── token_error.log
     └── gateway_error.log
+```
 
 ---
 
